@@ -11,4 +11,4 @@ jobs:
     - name: Setup python
       uses: actions/setup-python@v4
     - name: Run a py script   
-      run: python my-script.py
+      run: python stdmark.py
