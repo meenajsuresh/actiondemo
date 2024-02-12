@@ -15,5 +15,5 @@ elif 60<=total>=69:
     print("D grade")
 else:
     print("fail")
-
+print(rank1)
 
